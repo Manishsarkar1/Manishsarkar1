@@ -1,5 +1,5 @@
 Hi there, I'm MANISH SARKAR! 👋
-I'm an enthusiastic Python learner with a passion for software development, cybersecurity, ethical hacking, machine learning, and artificial intelligence. Welcome to my GitHub profile!
+I'm an enthusiastic Python learner with a passion for software development, cybersecurity, machine learning, and artificial intelligence. Welcome to my GitHub profile!
 
 About Me
 🌱 I’m currently exploring Python programming language, diving deep into its vast ecosystem and learning new concepts every day.
