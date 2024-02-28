@@ -8,7 +8,7 @@ About Me
 📚 I enjoy learning new technologies and tools related to these areas to stay up-to-date with the latest trends and advancements.
 
 Get in Touch
-Feel free to connect with me on LinkedIn(www.linkedin.com/in/manishsarkar)
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/manishsarkar)
 
 Fun Fact
 I love to experiment with new recipes in my free time and enjoy exploring different cuisines.
