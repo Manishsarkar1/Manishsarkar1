@@ -9,6 +9,7 @@ About Me
 
 Get in Touch
 Feel free to connect with me on [LinkedIn](https://in.linkedin.com/in/manish-sarkar-0b95a128a)
+
 Fun Fact
 I love to experiment with new recipes in my free time and enjoy exploring different cuisines.
 
