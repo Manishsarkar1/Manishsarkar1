@@ -94,9 +94,9 @@ Computer Science student focused on cybersecurity, building security tools, netw
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/snake.svg" alt="Snake eating contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
   </picture>
 </p>
 
@@ -108,5 +108,6 @@ Computer Science student focused on cybersecurity, building security tools, netw
 ## Disclaimer
 
 All projects and tools are created for **educational purposes and ethical security research only**.
+
 
 
