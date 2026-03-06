@@ -25,60 +25,87 @@ Computer Science student focused on cybersecurity, building security tools, netw
   <tr>
     <td valign="top" width="50%">
 
-### About
+### 👤 Profile
 
-- Computer Science undergraduate
-- Interested in **Cybersecurity** and **Network Security**
-- Building skills in both **offensive security** and **defensive security**
-- Prefer learning by building real tools
-- Work with low-level networking and packet analysis
-- Experience experimenting with penetration testing environments
+- CS undergraduate with a security-first path
+- Strong interest in both attack and defense workflows
+- Build-first learner: tools, labs, and practical systems
+- Focus on packet-level analysis and network visibility
+- Hands-on with penetration testing environments
 
   </td>
   <td valign="top" width="50%">
 
-### Core Skills
+### 🧰 Core Skills
 
-- **Programming:** Python, C, Bash, SQL
-- **Cybersecurity Tools:** Nmap, Metasploit, Wireshark, Scapy
-- **Systems:** Linux, Kali Linux, Raspberry Pi
-- **Development Tools:** Git, VS Code, Virtual Machines
+- **Languages:** Python, C, Bash, SQL
+- **Security:** Nmap, Metasploit, Wireshark, Scapy
+- **Platforms:** Linux, Kali Linux, Raspberry Pi
+- **Tooling:** Git, VS Code, Virtual Machines
 
   </td>
   </tr>
 </table>
 
-## Cybersecurity Areas of Interest
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-"><b>🛰️ Network Intrusion Detection System (NIDS)</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework"><b>🖥️ Custom App-only Remote GUI Framework</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Manishsarkar1/Port_Scanner"><b>🔍 Port Scanner</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-"><b>🌐 VANTA: Variable Network Topology Architecture</b></a>
+    </td>
+  </tr>
+</table>
+
+## Security Roadmap
+
+<table>
+  <tr>
+    <td valign="top" width="34%">
+
+### 🎯 Areas of Interest
 
 - Network Security
 - Intrusion Detection Systems
 - Penetration Testing
-- Offensive Security
 - Threat Detection
-- Network Traffic Analysis
 - Secure Communication Protocols
 
-## Projects
+  </td>
+  <td valign="top" width="33%">
 
-- [Network Intrusion Detection System (NIDS)](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)
-- [Custom App-only Remote GUI Framework](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)
-- [Port Scanner](https://github.com/Manishsarkar1/Port_Scanner)
-- [VANTA: Variable Network Topology Architecture](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)
-
-## Current Learning Focus
+### 📚 Current Focus
 
 - Advanced Network Security
-- Intrusion Detection Systems
+- IDS Engineering
 - Embedded Security
-- Exploit development
-- Secure network architectures
+- Exploit Development
+- Secure Network Architectures
 
-## Goals
+  </td>
+  <td valign="top" width="33%">
+
+### 🚀 Goals
 
 - Build advanced cybersecurity tools
 - Contribute to open-source security projects
 - Work in offensive security or security engineering
-- Develop real-world security solutions
+- Deliver real-world security solutions
+
+  </td>
+  </tr>
+</table>
 
 ## GitHub Snapshot
 
