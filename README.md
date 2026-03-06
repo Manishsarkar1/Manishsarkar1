@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/focus-offensive%20security-0d1117?style=flat&logo=hackthebox&logoColor=9FEF00" alt="Offensive Focus Badge" />
-  <img src="https://img.shields.io/badge/focus-defensive%20security-0d1117?style=flat&logo=shield&logoColor=2F81F7" alt="Defensive Focus Badge" />
+  <img src="https://img.shields.io/badge/Track-Red%20Team-0d1117?style=flat&logo=hackthebox&logoColor=9FEF00" alt="Red Team Badge" />
+  <img src="https://img.shields.io/badge/Track-Blue%20Team-0d1117?style=flat&logo=datadog&logoColor=2F81F7" alt="Blue Team Badge" />
 </p>
 
 <p align="left">
@@ -87,17 +87,13 @@ Computer Science student focused on cybersecurity, building security tools, netw
 
 <p>
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Manishsarkar1&hide_border=true&background=0d1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Manishsarkar1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Contribution Snake
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 </p>
 
 ## Security Focus (Offensive + Defensive)
@@ -114,3 +110,4 @@ Computer Science student focused on cybersecurity, building security tools, netw
 ## Disclaimer
 
 All projects and tools are created for **educational purposes and ethical security research only**.
+
