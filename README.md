@@ -93,7 +93,7 @@ Computer Science student focused on cybersecurity, building security tools, netw
 ## Contribution Snake
 
 <p>
-  <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake-dark-static.svg" alt="Snake eating contributions" />
 </p>
 
 ## Security Focus (Offensive + Defensive)
@@ -110,4 +110,5 @@ Computer Science student focused on cybersecurity, building security tools, netw
 ## Disclaimer
 
 All projects and tools are created for **educational purposes and ethical security research only**.
+
 
