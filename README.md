@@ -1,136 +1,211 @@
-﻿# Manish Sarkar
+﻿<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Manishsarkar1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2300&pause=850&color=2F81F7&vCenter=true&width=680&lines=Cybersecurity+%7C+Network+Security+%7C+Offensive+Security;Building+security+tools%2C+network+analysis+systems%2C+and+IDS+solutions;Learning%2C+breaking%2C+defending+%E2%86%92+repeat" alt="Typing Intro" />
-  </a>
-</p>
+<!-- DYNAMIC BORDER TOP -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0a3d62,100:2F81F7&text=Manish%20Sarkar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Security%20%7C%20Offensive%20Security&descAlignY=58&descSize=16&animation=twinkling&stroke=2F81F7&strokeWidth=1" width="100%" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Track-Red%20Team-0d1117?style=flat&logo=hackthebox&logoColor=9FEF00" alt="Red Team Badge" />
-  <img src="https://img.shields.io/badge/Track-Blue%20Team-0d1117?style=flat&logo=datadog&logoColor=2F81F7" alt="Blue Team Badge" />
-</p>
+</div>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,100:2F81F7&section=footer" alt="Wave Divider" />
-</p>
+<div align="center">
 
-Computer Science student focused on cybersecurity, building security tools, network analysis systems, and intrusion detection solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2300&pause=850&color=2F81F7&center=true&vCenter=true&width=700&lines=🔍+Recon.+Exploit.+Detect.+Defend.+Repeat.;🛠️+Building+NIDS%2C+security+tools%2C+and+network+analysis+systems;⚔️+Red+Team+%2B+Blue+Team+%3D+Purple+Team+Mindset;📡+Low-level+networking+%7C+Packet+analysis+%7C+Threat+detection)](https://github.com/Manishsarkar1)
 
-> `🛡️ Minimal style, maximum signal.`
+<br/>
 
-## About Me
+![Red Team](https://img.shields.io/badge/⚔️_Red_Team-Offensive-FF4444?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117)
+![Blue Team](https://img.shields.io/badge/🛡️_Blue_Team-Defensive-2F81F7?style=for-the-badge&logo=datadog&logoColor=2F81F7&labelColor=0d1117)
+![Purple Team](https://img.shields.io/badge/🔮_Purple_Team-Bridge-9B59B6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+</div>
 
-### 👤 Profile
+---
 
-- CS undergraduate with a security-first path
-- Strong interest in both attack and defense workflows
-- Build-first learner: tools, labs, and practical systems
-- Focus on packet-level analysis and network visibility
-- Hands-on with penetration testing environments
+<div align="center">
 
-  </td>
-  <td valign="top" width="50%">
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🛡️  MINIMAL STYLE. MAXIMUM SIGNAL. ZERO COMPROMISE.  🛡️       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-### 🧰 Core Skills
+</div>
 
-- **Languages:** Python, C, Bash, SQL
-- **Security:** Nmap, Metasploit, Wireshark, Scapy
-- **Platforms:** Linux, Kali Linux, Raspberry Pi
-- **Tooling:** Git, VS Code, Virtual Machines
+---
 
-  </td>
-  </tr>
-</table>
-
-## Projects
+## 👾 About Me
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-"><b>🛰️ Network Intrusion Detection System (NIDS)</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework"><b>🖥️ Custom App-only Remote GUI Framework</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Manishsarkar1/Port_Scanner"><b>🔍 Port Scanner</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-"><b>🌐 VANTA: Variable Network Topology Architecture</b></a>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 Background
+
+```yaml
+name:     Manish Sarkar
+role:     CS Undergraduate
+focus:    Cybersecurity & Network Security
+track:    Offensive + Defensive (Purple)
+approach: Learn by building real tools
+env:      Kali Linux / Raspberry Pi
+lab:      Pentesting environments
+```
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Core Stack
+
+```yaml
+languages:
+  - Python  ████████████░  90%
+  - C       █████████░░░░  70%
+  - Bash    ████████░░░░░  65%
+  - SQL     ███████░░░░░░  55%
+
+security_tools:
+  - Nmap · Metasploit · Wireshark
+  - Scapy · Kali Linux · Burp Suite
+
+systems:
+  - Linux · Raspberry Pi · VMs
+```
+
+</td>
+</tr>
 </table>
 
-## Security Roadmap
+---
+
+## 🎯 Cybersecurity Domains
+
+<div align="center">
+
+| 🔴 Offensive | 🔵 Defensive | 🟣 Bridge |
+|:---:|:---:|:---:|
+| ![Recon](https://img.shields.io/badge/Recon-0d1117?style=flat-square&logo=tor-project&logoColor=9FEF00) | ![IDS](https://img.shields.io/badge/IDS%20Development-0d1117?style=flat-square&logo=datadog&logoColor=2F81F7) | ![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-0d1117?style=flat-square&logo=openbugbounty&logoColor=9B59B6) |
+| ![PenTest](https://img.shields.io/badge/Penetration%20Testing-0d1117?style=flat-square&logo=metasploit&logoColor=FF4444) | ![Traffic Analysis](https://img.shields.io/badge/Traffic%20Analysis-0d1117?style=flat-square&logo=wireshark&logoColor=2F81F7) | ![Detection Logic](https://img.shields.io/badge/Detection%20Logic-0d1117?style=flat-square&logo=elastic&logoColor=9B59B6) |
+| ![Exploit Dev](https://img.shields.io/badge/Exploit%20Dev-0d1117?style=flat-square&logo=gnu&logoColor=FF4444) | ![Threat Detection](https://img.shields.io/badge/Threat%20Detection-0d1117?style=flat-square&logo=paloaltonetworks&logoColor=2F81F7) | ![Incident Response](https://img.shields.io/badge/Incident%20Logging-0d1117?style=flat-square&logo=splunk&logoColor=9B59B6) |
+| ![Attack Sim](https://img.shields.io/badge/Attack%20Simulation-0d1117?style=flat-square&logo=kalilinux&logoColor=FF4444) | ![Secure Comms](https://img.shields.io/badge/Secure%20Protocols-0d1117?style=flat-square&logo=openvpn&logoColor=2F81F7) | ![Secure Arch](https://img.shields.io/badge/Secure%20Architecture-0d1117?style=flat-square&logo=cisco&logoColor=9B59B6) |
+
+</div>
+
+---
+
+## 🔧 Projects
 
 <table>
-  <tr>
-    <td valign="top" width="34%">
+<tr>
+<td width="50%" valign="top">
 
-### 🎯 Areas of Interest
+### 🚨 [Network Intrusion Detection System (NIDS)](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)
+> Real-time packet capture and analysis engine with rule-based anomaly detection. Built for monitoring and alerting on suspicious network activity.
 
-- Network Security
-- Intrusion Detection Systems
-- Penetration Testing
-- Threat Detection
-- Secure Communication Protocols
+`Python` `Scapy` `Networking` `IDS` `Threat Detection`
 
-  </td>
-  <td valign="top" width="33%">
+---
 
-### 📚 Current Focus
+### 🖥️ [Custom App-Only Remote GUI Framework](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)
+> Lightweight remote GUI framework for controlled application-level access — designed with security constraints in mind.
 
-- Advanced Network Security
-- IDS Engineering
-- Embedded Security
-- Exploit Development
-- Secure Network Architectures
+`Python` `GUI` `Remote Access` `Security Architecture`
 
-  </td>
-  <td valign="top" width="33%">
+</td>
+<td width="50%" valign="top">
 
-### 🚀 Goals
+### 🔍 [Port Scanner](https://github.com/Manishsarkar1/Port_Scanner)
+> Fast, multi-threaded port scanner with service detection. Built from the ground up for learning low-level socket programming and recon techniques.
 
-- Build advanced cybersecurity tools
-- Contribute to open-source security projects
-- Work in offensive security or security engineering
-- Deliver real-world security solutions
+`Python` `Sockets` `Networking` `Recon` `Offensive`
 
-  </td>
-  </tr>
+---
+
+### 🌐 [VANTA: Variable Network Topology Architecture](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)
+> Dynamic network topology simulation framework for testing security assumptions across different network configurations.
+
+`Python` `Network Architecture` `Simulation` `Security Research`
+
+</td>
+</tr>
 </table>
 
-## GitHub Snapshot
+---
 
-<p>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Manishsarkar1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📚 Current Learning Focus
 
-## Contribution Snake
+<div align="center">
 
-<p>
-  <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake-dark-static.svg" alt="Snake eating contributions" />
-</p>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     🎯 ACTIVE OBJECTIVES                        │
+├──────────────────────┬──────────────────────────────────────────┤
+│  Advanced NetSec     │  ████████████░░░░░░░  60%                │
+│  IDS Engineering     │  ██████████████░░░░░  70%                │
+│  Embedded Security   │  ████████░░░░░░░░░░░  40%                │
+│  Exploit Development │  ██████░░░░░░░░░░░░░  30%                │
+│  Secure Architectures│  ████████████████░░░  80%                │
+└──────────────────────┴──────────────────────────────────────────┘
+```
 
-## Security Focus (Offensive + Defensive)
+</div>
 
-- **Offensive:** Recon, vulnerability assessment, attack simulation in safe labs
-- **Defensive:** IDS development, traffic analysis, detection logic, incident-focused logging
-- **Bridge:** Use attacker techniques to design stronger detection and response workflows
+---
 
-## Links
+## 🚀 Goals
 
-- GitHub: [github.com/Manishsarkar1](https://github.com/Manishsarkar1)
-- LinkedIn: [linkedin.com/in/manishsarkar](https://www.linkedin.com/in/manishsarkar/)
+- 🏗️ **Build** advanced, production-grade cybersecurity tools
+- 🌍 **Contribute** to open-source security projects
+- ⚔️ **Work** in offensive security or security engineering
+- 🔐 **Develop** real-world security solutions that actually matter
 
-## Disclaimer
+---
 
-All projects and tools are created for **educational purposes and ethical security research only**.
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+<img height="165" src="https://streak-stats.demolab.com?user=Manishsarkar1&theme=github-dark-blue&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manishsarkar1&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake-dark-static.svg" alt="Snake eating contributions" />
+
+</div>
+
+---
+
+## 🔗 Links
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Manishsarkar1-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=2F81F7)](https://github.com/Manishsarkar1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manishsarkar-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0A66C2)](https://www.linkedin.com/in/manishsarkar/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  ⚠️  DISCLAIMER                                               ║
+║  All projects and tools are created for educational purposes  ║
+║  and ethical security research ONLY.                          ║
+║  Unauthorized access to systems is illegal and unethical.     ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- DYNAMIC BORDER BOTTOM -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2F81F7,50:0a3d62,100:0d1117&section=footer&animation=twinkling" width="100%" />
