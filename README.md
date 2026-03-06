@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Manishsarkar1&label=Profile+Views&color=2F81F7&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/focus-offensive%20security-0d1117?style=flat&logo=hackthebox&logoColor=9FEF00" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/focus-offensive%20security-0d1117?style=flat&logo=hackthebox&logoColor=9FEF00" alt="Offensive Focus Badge" />
+  <img src="https://img.shields.io/badge/focus-defensive%20security-0d1117?style=flat&logo=shield&logoColor=2F81F7" alt="Defensive Focus Badge" />
 </p>
 
 <p align="left">
@@ -23,7 +23,7 @@ Computer Science student focused on cybersecurity, building security tools, netw
 
 - Computer Science undergraduate
 - Interested in **Cybersecurity** and **Network Security**
-- Focus on **offensive security** and **threat detection**
+- Building skills in both **offensive security** and **defensive security**
 - Prefer learning by building real tools
 - Work with low-level networking and packet analysis
 - Experience experimenting with penetration testing environments
@@ -87,7 +87,7 @@ Computer Science student focused on cybersecurity, building security tools, netw
 
 <p>
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manishsarkar1&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Manishsarkar1&hide_border=true&background=0d1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ## Contribution Snake
@@ -100,6 +100,12 @@ Computer Science student focused on cybersecurity, building security tools, netw
   </picture>
 </p>
 
+## Security Focus (Offensive + Defensive)
+
+- **Offensive:** Recon, vulnerability assessment, attack simulation in safe labs
+- **Defensive:** IDS development, traffic analysis, detection logic, incident-focused logging
+- **Bridge:** Use attacker techniques to design stronger detection and response workflows
+
 ## Links
 
 - GitHub: [github.com/Manishsarkar1](https://github.com/Manishsarkar1)
@@ -108,6 +114,3 @@ Computer Science student focused on cybersecurity, building security tools, netw
 ## Disclaimer
 
 All projects and tools are created for **educational purposes and ethical security research only**.
-
-
-
