@@ -21,6 +21,12 @@ Computer Science student focused on cybersecurity, building security tools, netw
 
 ## About Me
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### About
+
 - Computer Science undergraduate
 - Interested in **Cybersecurity** and **Network Security**
 - Building skills in both **offensive security** and **defensive security**
@@ -28,12 +34,19 @@ Computer Science student focused on cybersecurity, building security tools, netw
 - Work with low-level networking and packet analysis
 - Experience experimenting with penetration testing environments
 
-## Core Skills
+  </td>
+  <td valign="top" width="50%">
 
-**Programming:** Python, C, Bash, SQL  
-**Cybersecurity Tools:** Nmap, Metasploit, Wireshark, Scapy  
-**Systems:** Linux, Kali Linux, Raspberry Pi  
-**Development Tools:** Git, VS Code, Virtual Machines
+### Core Skills
+
+- **Programming:** Python, C, Bash, SQL
+- **Cybersecurity Tools:** Nmap, Metasploit, Wireshark, Scapy
+- **Systems:** Linux, Kali Linux, Raspberry Pi
+- **Development Tools:** Git, VS Code, Virtual Machines
+
+  </td>
+  </tr>
+</table>
 
 ## Cybersecurity Areas of Interest
 
@@ -47,26 +60,10 @@ Computer Science student focused on cybersecurity, building security tools, netw
 
 ## Projects
 
-### Network Scanner and Analyzer
-- Custom network reconnaissance tool
-- Host discovery
-- Port scanning
-- Network traffic monitoring
-- Packet analysis
-
-### Intrusion Detection System (IDS)
-- Custom Network IDS
-- Packet capture using Scapy
-- Suspicious traffic detection
-- Threat logging database
-- IP address tracking
-- Attack pattern storage
-
-### Secure Communication Protocol
-- Custom SSH-like communication system
-- Designed for secure message transfer
-- Exploration of cryptography concepts
-- Experimentation with secure networking
+- [Network Intrusion Detection System (NIDS)](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)
+- [Custom App-only Remote GUI Framework](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)
+- [Port Scanner](https://github.com/Manishsarkar1/Port_Scanner)
+- [VANTA: Variable Network Topology Architecture](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)
 
 ## Current Learning Focus
 
@@ -110,5 +107,3 @@ Computer Science student focused on cybersecurity, building security tools, netw
 ## Disclaimer
 
 All projects and tools are created for **educational purposes and ethical security research only**.
-
-
