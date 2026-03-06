@@ -7,13 +7,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2300&pause=850&color=2F81F7&center=true&vCenter=true&width=700&lines=🔍+Recon.+Exploit.+Detect.+Defend.+Repeat.;🛠️+Building+NIDS%2C+security+tools%2C+and+network+analysis+systems;⚔️+Red+Team+%2B+Blue+Team+%3D+Purple+Team+Mindset;📡+Low-level+networking+%7C+Packet+analysis+%7C+Threat+detection)](https://github.com/Manishsarkar1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2300&pause=850&color=2F81F7&center=true&vCenter=true&width=700&lines=→+Recon.+Exploit.+Detect.+Defend.+Repeat.;→+Building+NIDS%2C+security+tools%2C+network+analysis+systems;→+Red+Team+%2B+Blue+Team+%3D+Purple+Team+Mindset;→+Low-level+networking+|+Packet+analysis+|+Threat+detection)](https://github.com/Manishsarkar1)
 
 <br/>
 
-![Red Team](https://img.shields.io/badge/⚔️_Red_Team-Offensive-FF4444?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117)
-![Blue Team](https://img.shields.io/badge/🛡️_Blue_Team-Defensive-2F81F7?style=for-the-badge&logo=datadog&logoColor=2F81F7&labelColor=0d1117)
-![Purple Team](https://img.shields.io/badge/🔮_Purple_Team-Bridge-9B59B6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117)
+![Red Team](https://img.shields.io/badge/⚔_Red_Team-Offensive-FF4444?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117)
+![Blue Team](https://img.shields.io/badge/◈_Blue_Team-Defensive-2F81F7?style=for-the-badge&logo=datadog&logoColor=2F81F7&labelColor=0d1117)
+![Purple Team](https://img.shields.io/badge/◉_Purple_Team-Bridge-9B59B6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  🛡️  MINIMAL STYLE. MAXIMUM SIGNAL. ZERO COMPROMISE.  🛡️       ║
+║      minimal style. maximum signal. zero compromise.            ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -31,13 +31,13 @@
 
 ---
 
-## 👾 About Me
+## ~ about
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🧠 Background
+### [ whoami ]
 
 ```yaml
 name:     Manish Sarkar
@@ -52,7 +52,7 @@ lab:      Pentesting environments
 </td>
 <td valign="top" width="50%">
 
-### ⚙️ Core Stack
+### [ stack ]
 
 ```yaml
 languages:
@@ -75,11 +75,11 @@ systems:
 
 ---
 
-## 🎯 Cybersecurity Domains
+## ~ domains
 
 <div align="center">
 
-| 🔴 Offensive | 🔵 Defensive | 🟣 Bridge |
+| ◤ Offensive | ◥ Defensive | ◈ Bridge |
 |:---:|:---:|:---:|
 | ![Recon](https://img.shields.io/badge/Recon-0d1117?style=flat-square&logo=tor-project&logoColor=9FEF00) | ![IDS](https://img.shields.io/badge/IDS%20Development-0d1117?style=flat-square&logo=datadog&logoColor=2F81F7) | ![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-0d1117?style=flat-square&logo=openbugbounty&logoColor=9B59B6) |
 | ![PenTest](https://img.shields.io/badge/Penetration%20Testing-0d1117?style=flat-square&logo=metasploit&logoColor=FF4444) | ![Traffic Analysis](https://img.shields.io/badge/Traffic%20Analysis-0d1117?style=flat-square&logo=wireshark&logoColor=2F81F7) | ![Detection Logic](https://img.shields.io/badge/Detection%20Logic-0d1117?style=flat-square&logo=elastic&logoColor=9B59B6) |
@@ -90,20 +90,20 @@ systems:
 
 ---
 
-## 🔧 Projects
+## ~ projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 [Network Intrusion Detection System (NIDS)](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)
+### ▸ [Network Intrusion Detection System (NIDS)](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)
 > Real-time packet capture and analysis engine with rule-based anomaly detection. Built for monitoring and alerting on suspicious network activity.
 
 `Python` `Scapy` `Networking` `IDS` `Threat Detection`
 
 ---
 
-### 🖥️ [Custom App-Only Remote GUI Framework](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)
+### ▸ [Custom App-Only Remote GUI Framework](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)
 > Lightweight remote GUI framework for controlled application-level access — designed with security constraints in mind.
 
 `Python` `GUI` `Remote Access` `Security Architecture`
@@ -111,14 +111,14 @@ systems:
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [Port Scanner](https://github.com/Manishsarkar1/Port_Scanner)
+### ▸ [Port Scanner](https://github.com/Manishsarkar1/Port_Scanner)
 > Fast, multi-threaded port scanner with service detection. Built from the ground up for learning low-level socket programming and recon techniques.
 
 `Python` `Sockets` `Networking` `Recon` `Offensive`
 
 ---
 
-### 🌐 [VANTA: Variable Network Topology Architecture](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)
+### ▸ [VANTA: Variable Network Topology Architecture](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)
 > Dynamic network topology simulation framework for testing security assumptions across different network configurations.
 
 `Python` `Network Architecture` `Simulation` `Security Research`
@@ -129,13 +129,13 @@ systems:
 
 ---
 
-## 📚 Current Learning Focus
+## ~ current objectives
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                     🎯 ACTIVE OBJECTIVES                        │
+│                        ACTIVE TARGETS                           │
 ├──────────────────────┬──────────────────────────────────────────┤
 │  Advanced NetSec     │  ████████████░░░░░░░  60%                │
 │  IDS Engineering     │  ██████████████░░░░░  70%                │
@@ -149,16 +149,18 @@ systems:
 
 ---
 
-## 🚀 Goals
+## ~ goals
 
-- 🏗️ **Build** advanced, production-grade cybersecurity tools
-- 🌍 **Contribute** to open-source security projects
-- ⚔️ **Work** in offensive security or security engineering
-- 🔐 **Develop** real-world security solutions that actually matter
+```
+  →  Build advanced, production-grade cybersecurity tools
+  →  Contribute to open-source security projects
+  →  Work in offensive security or security engineering
+  →  Develop real-world security solutions that actually matter
+```
 
 ---
 
-## 📊 GitHub Snapshot
+## ~ stats
 
 <div align="center">
 
@@ -173,7 +175,7 @@ systems:
 
 ---
 
-## 🐍 Contribution Snake
+## ~ contribution grid
 
 <div align="center">
 
@@ -183,12 +185,12 @@ systems:
 
 ---
 
-## 🔗 Links
+## ~ links
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Manishsarkar1-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=2F81F7)](https://github.com/Manishsarkar1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manishsarkar-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0A66C2)](https://www.linkedin.com/in/manishsarkar/)
+[![GitHub](https://img.shields.io/badge/github-Manishsarkar1-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=2F81F7)](https://github.com/Manishsarkar1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-manishsarkar-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0A66C2)](https://www.linkedin.com/in/manishsarkar/)
 
 </div>
 
@@ -198,10 +200,8 @@ systems:
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  ⚠️  DISCLAIMER                                               ║
-║  All projects and tools are created for educational purposes  ║
-║  and ethical security research ONLY.                          ║
-║  Unauthorized access to systems is illegal and unethical.     ║
+║  disclaimer: all tools are for educational purposes and       ║
+║  ethical security research only. stay legal, stay ethical.    ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
