@@ -86,14 +86,18 @@ Computer Science student focused on cybersecurity, building security tools, netw
 ## GitHub Snapshot
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishsarkar1&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manishsarkar1&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ## Contribution Snake
 
 <p>
-  <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/snake.svg" alt="Snake eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/snake.svg" alt="Snake eating contributions" />
+  </picture>
 </p>
 
 ## Links
@@ -104,3 +108,5 @@ Computer Science student focused on cybersecurity, building security tools, netw
 ## Disclaimer
 
 All projects and tools are created for **educational purposes and ethical security research only**.
+
+
