@@ -25,17 +25,23 @@ Linux, Kali Linux, Raspberry Pi, Virtual Machines
 
 ## Projects
 
-- **[Network Intrusion Detection System](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)**  
-  Python + Scapy based IDS that captures packets and detects suspicious activity through rule-based analysis.
+<p>
+  <a href="https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-"><strong>Network Intrusion Detection System</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework"><strong>Custom Remote GUI Framework</strong></a><br/>
+  <sub>Python + Scapy based IDS with packet capture and rule-based anomaly detection.</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Secure application-level remote access framework.</sub>
+</p>
 
-- **[Port Scanner](https://github.com/Manishsarkar1/Port_Scanner)**  
-  Multi-threaded TCP port scanner implemented with socket programming.
-
-- **[Custom Remote GUI Framework](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)**  
-  Secure application-level remote access framework.
-
-- **[VANTA (Variable Network Topology Architecture)](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)**  
-  Dynamic topology simulation framework for network security testing scenarios.
+<p>
+  <a href="https://github.com/Manishsarkar1/Port_Scanner"><strong>Port Scanner</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-"><strong>VANTA (Variable Network Topology Architecture)</strong></a><br/>
+  <sub>Multi-threaded TCP port scanner implemented with socket programming.</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Dynamic topology simulation framework for network security testing scenarios.</sub>
+</p>
 
 ---
 
@@ -71,3 +77,4 @@ Linux, Kali Linux, Raspberry Pi, Virtual Machines
 
 - GitHub: [github.com/Manishsarkar1](https://github.com/Manishsarkar1)
 - LinkedIn: [linkedin.com/in/manishsarkar](https://www.linkedin.com/in/manishsarkar/)
+
