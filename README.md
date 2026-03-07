@@ -1,64 +1,50 @@
 ﻿# Manish Sarkar
 
-Computer Science Undergraduate focused on Cybersecurity and Network Security.
+Computer Science Undergraduate focused on cybersecurity engineering and network security.
 
 ---
 
 ## About
 
-I learn cybersecurity by building real security tools and testing them in controlled environments. My work emphasizes practical network defense, offensive security fundamentals, and engineering-driven security analysis.
+I learn cybersecurity by building practical security tools, testing them in controlled labs, and iterating on both offensive and defensive workflows.
 
 ---
 
 ## Technical Stack
 
 **Languages**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18" alt="Python" /> Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="18" height="18" alt="C" /> C &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="18" height="18" alt="Bash" /> Bash &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" height="18" alt="SQL" /> SQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python" /> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16" alt="C" /> C &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="16" height="16" alt="Bash" /> Bash &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" alt="SQL" /> SQL
 
 **Security Tools**  
 Nmap, Metasploit, Wireshark, Burp Suite, Scapy
 
-**Systems and Environment**  
-Linux, Kali Linux, Raspberry Pi, Virtual Machines
+**Systems**  
+Linux, Kali Linux, Raspberry Pi
+
+**Environment**  
+Virtual Labs
 
 ---
 
-## Projects
+## Key Projects
 
-<table width="100%" style="border-collapse:separate;border-spacing:0;">
-  <tr>
-    <td width="48%" valign="top">
-      <a href="https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-"><strong>Network Intrusion Detection System</strong></a><br/>
-      <sub>Python + Scapy based IDS with packet capture and rule-based anomaly detection.</sub>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <a href="https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework"><strong>Custom Remote GUI Framework</strong></a><br/>
-      <sub>Secure application-level remote access framework.</sub>
-    </td>
-  </tr>
-  <tr><td colspan="3" height="16"></td></tr>
-  <tr>
-    <td width="48%" valign="top">
-      <a href="https://github.com/Manishsarkar1/Port_Scanner"><strong>Port Scanner</strong></a><br/>
-      <sub>Multi-threaded TCP port scanner implemented with socket programming.</sub>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <a href="https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-"><strong>VANTA (Variable Network Topology Architecture)</strong></a><br/>
-      <sub>Dynamic topology simulation framework for network security testing scenarios.</sub>
-    </td>
-  </tr>
-</table>
+- **[Network Intrusion Detection System](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)**  
+  Python + Scapy packet capture and rule-based anomaly detection.
+
+- **[Port Scanner](https://github.com/Manishsarkar1/Port_Scanner)**  
+  Multi-threaded TCP port scanner using socket programming.
+
+- **[Custom Remote GUI Framework](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)**  
+  Secure application-level remote access system.
+
+- **[VANTA (Variable Network Topology Architecture)](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)**  
+  Network topology simulation framework for testing security scenarios.
 
 ---
 
-## Security Lab and Experimentation
+## Security Lab
 
-- Build and validate security tools in isolated virtual labs
-- Perform packet inspection and traffic behavior analysis
-- Test reconnaissance and exploitation workflows in controlled environments
-- Evaluate detection rules for suspicious network activity
+I use Kali Linux and isolated virtual labs to experiment with reconnaissance, packet-level traffic analysis, and intrusion detection development.
 
 ---
 
@@ -69,14 +55,14 @@ Linux, Kali Linux, Raspberry Pi, Virtual Machines
 - Packet Analysis
 - Penetration Testing
 - Secure Network Architectures
-- Exploit Development (learning stage)
+- Exploit Development (learning)
 
 ---
 
 ## GitHub Snapshot
 
 <p>
-  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 ---
@@ -85,5 +71,3 @@ Linux, Kali Linux, Raspberry Pi, Virtual Machines
 
 - GitHub: [github.com/Manishsarkar1](https://github.com/Manishsarkar1)
 - LinkedIn: [linkedin.com/in/manishsarkar](https://www.linkedin.com/in/manishsarkar/)
-
-
