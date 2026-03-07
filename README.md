@@ -58,34 +58,40 @@ Currently exploring the boundary between **offensive techniques** and **defensiv
 <tr>
 <td valign="top" width="34%">
 
-**// Languages**
+<b>// Languages</b>
 
-Python &nbsp;&nbsp; `████████████` &nbsp; primary<br/>
-C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░░░` &nbsp; systems<br/>
-Bash &nbsp;&nbsp; `███████░░░░░` &nbsp; scripting<br/>
-SQL &nbsp;&nbsp;&nbsp; `█████░░░░░░░` &nbsp; data
-
-</td>
-<td valign="top" width="33%">
-
-**// Security Arsenal**
-
-`Nmap` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Recon & Discovery<br/>
-`Metasploit` &nbsp; → Exploitation<br/>
-`Wireshark` &nbsp;&nbsp; → Traffic Analysis<br/>
-`Burp Suite` &nbsp; → Web Attack Surface<br/>
-`Scapy` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Packet Crafting
+<table>
+<tr><td><code>Python</code></td><td><code>████████████</code></td><td>primary</td></tr>
+<tr><td><code>C</code></td><td><code>████████░░░░</code></td><td>systems</td></tr>
+<tr><td><code>Bash</code></td><td><code>███████░░░░░</code></td><td>scripting</td></tr>
+<tr><td><code>SQL</code></td><td><code>█████░░░░░░░</code></td><td>data</td></tr>
+</table>
 
 </td>
 <td valign="top" width="33%">
 
-**// Lab Environment**
+<b>// Security Arsenal</b>
 
-Primary OS &nbsp; : `Kali Linux`<br/>
-Hypervisor &nbsp; : `VirtualBox / VMware`<br/>
-Hardware &nbsp;&nbsp;&nbsp; : `Raspberry Pi`<br/>
-Network &nbsp;&nbsp;&nbsp;&nbsp; : `Isolated lab VLANs`<br/>
-Methodology : `Red → Blue → Purple`
+<table>
+<tr><td><code>Nmap</code></td><td>→ Recon & Discovery</td></tr>
+<tr><td><code>Metasploit</code></td><td>→ Exploitation</td></tr>
+<tr><td><code>Wireshark</code></td><td>→ Traffic Analysis</td></tr>
+<tr><td><code>Burp Suite</code></td><td>→ Web Attack Surface</td></tr>
+<tr><td><code>Scapy</code></td><td>→ Packet Crafting</td></tr>
+</table>
+
+</td>
+<td valign="top" width="33%">
+
+<b>// Lab Environment</b>
+
+<table>
+<tr><td>Primary OS</td><td><code>Kali Linux</code></td></tr>
+<tr><td>Hypervisor</td><td><code>VirtualBox / VMware</code></td></tr>
+<tr><td>Hardware</td><td><code>Raspberry Pi</code></td></tr>
+<tr><td>Network</td><td><code>Isolated lab VLANs</code></td></tr>
+<tr><td>Methodology</td><td><code>Red → Blue → Purple</code></td></tr>
+</table>
 
 </td>
 </tr>
