@@ -232,8 +232,8 @@ philosophy: "offensive understanding → defensive engineering"
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│   All security research is conducted in isolated, air-gapped         │
-│   virtual environments strictly for educational purposes.            │
+│   All security research is conducted in isolated, air-gapped        │
+│   virtual environments strictly for educational purposes.           │
 │   Knowledge is a tool — intent is everything.                       │
 └─────────────────────────────────────────────────────────────────────┘
 ```
