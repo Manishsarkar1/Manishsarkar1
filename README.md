@@ -1,80 +1,91 @@
 ﻿<div align="center">
 
 ```
-███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
-████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
-██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║
-██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
-██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
-         S A R K A R
+ ███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
+ ████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
+ ██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║
+ ██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
+ ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=CS+Undergraduate+%7C+Cybersecurity+%26+Network+Security;Building+real+security+tools+in+controlled+environments;Packet+Capture+%7C+Intrusion+Detection+%7C+Pentesting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=CS+Undergraduate+%7C+Cybersecurity+%26+Network+Security;I+build+the+tools.+I+break+the+systems.+I+understand+both.;Packet+Capture+%E2%80%A2+Intrusion+Detection+%E2%80%A2+Penetration+Testing;Offensive+understanding+%E2%86%92+Defensive+engineering." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Manishsarkar1&style=for-the-badge&color=00FF88&labelColor=0d1117&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Manishsarkar1?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-00FF88?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Network%20Security-00FF88?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20C%20%7C%20Bash-58A6FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Lab-Kali%20Linux%20%7C%20VMs-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-</div>
+<br/>
 
 ---
 
-## `> whoami`
+## `$ cat /etc/motd`
+
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ```bash
-$ cat profile.txt
+┌──(manish㉿kali)-[~]
+└─$ cat profile.txt
 
-  Role     : Computer Science Undergraduate
-  Focus    : Cybersecurity & Network Security
-  Method   : Build real tools. Test in controlled labs. Break to understand. Fix to defend.
-  Status   : Actively learning exploit development & secure architectures
+  ╔══════════════════════════════════════╗
+  ║  Name   : Manish Sarkar              ║
+  ║  Role   : CS Undergraduate           ║
+  ║  Focus  : Cybersecurity & NetSec     ║
+  ║  Method : Build → Break → Defend     ║
+  ║  Status : Learning exploit dev 🔴    ║
+  ╚══════════════════════════════════════╝
 ```
 
-I don't just study security — I engineer it. My approach is hands-on: build a tool, understand how it breaks things, then understand how to stop it.
+I don't just study security — I **engineer** it.
+
+My approach is strictly hands-on: build a tool from scratch, understand exactly how it can be weaponized, then figure out how to stop it. Every project in this repo exists because I needed to understand something deeply enough to build it myself.
+
+Currently exploring the boundary between **offensive techniques** and **defensive architecture** — because you can't build a good fence if you've never tried to climb one.
+
+<br clear="right"/>
 
 ---
 
-## `> cat tech_stack.conf`
+## `$ cat /proc/skills`
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="34%">
 
-**Languages**
-```
-Python   ████████████ primary
-C        ████████░░░░ systems
-Bash     ███████░░░░░ scripting
-SQL      █████░░░░░░░ queries
-```
+**// Languages**
 
-</td>
-<td valign="top" width="33%">
-
-**Security Tooling**
-```
-Nmap        → Reconnaissance
-Metasploit  → Exploitation
-Wireshark   → Packet Analysis
-Burp Suite  → Web Security
-Scapy       → Packet Crafting
-```
+Python &nbsp;&nbsp; `████████████` &nbsp; primary<br/>
+C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░░░` &nbsp; systems<br/>
+Bash &nbsp;&nbsp; `███████░░░░░` &nbsp; scripting<br/>
+SQL &nbsp;&nbsp;&nbsp; `█████░░░░░░░` &nbsp; data
 
 </td>
 <td valign="top" width="33%">
 
-**Environment**
-```
-OS      : Linux / Kali Linux
-Lab     : Isolated VMs
-Hardware: Raspberry Pi
-Method  : Controlled testing
-```
+**// Security Arsenal**
+
+`Nmap` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Recon & Discovery<br/>
+`Metasploit` &nbsp; → Exploitation<br/>
+`Wireshark` &nbsp;&nbsp; → Traffic Analysis<br/>
+`Burp Suite` &nbsp; → Web Attack Surface<br/>
+`Scapy` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Packet Crafting
+
+</td>
+<td valign="top" width="33%">
+
+**// Lab Environment**
+
+Primary OS &nbsp; : `Kali Linux`<br/>
+Hypervisor &nbsp; : `VirtualBox / VMware`<br/>
+Hardware &nbsp;&nbsp;&nbsp; : `Raspberry Pi`<br/>
+Network &nbsp;&nbsp;&nbsp;&nbsp; : `Isolated lab VLANs`<br/>
+Methodology : `Red → Blue → Purple`
 
 </td>
 </tr>
@@ -82,50 +93,59 @@ Method  : Controlled testing
 
 ---
 
-## `> ls -la ./projects/`
+## `$ ls -la ~/projects/ --sort=impact`
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Network Intrusion Detection System](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)
-> `Python + Scapy`
+<kbd>**🛡️ NIDS — Network Intrusion Detection System**</kbd>
 
-Real-time packet capture engine with rule-based anomaly detection. Built from scratch to understand how IDS systems flag malicious traffic patterns at the network layer.
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manishsarkar1&repo=Network-Intrusion-Detection-System-NIDS-&hide_border=true&title_color=00FF88&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)
 
-`#ids` `#scapy` `#packet-analysis` `#python`
+Python + Scapy packet capture engine with rule-based anomaly detection. Inspects live traffic, classifies flows, and triggers alerts on suspicious patterns — built entirely from scratch.
+
+`Python` `Scapy` `IDS` `Packet Analysis`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 [VANTA – Variable Network Topology Architecture](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)
-> `Network Simulation`
+<kbd>**🌐 VANTA — Variable Network Topology Architecture**</kbd>
 
-Dynamic topology simulation framework for security testing. Designed to spin up varied network environments for controlled attack/defense scenarios.
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manishsarkar1&repo=VANTA-Variable-Network-Topology-Architecture-&hide_border=true&title_color=00FF88&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)
 
-`#network-simulation` `#security-lab` `#topology`
+Dynamic topology simulation framework. Programmatically builds varied network environments to test attack paths, detection rules, and lateral movement under controlled conditions.
+
+`Network Simulation` `Security Testing` `Lab Infrastructure`
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ [Custom Remote GUI Framework](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)
-> `Secure Remote Access`
+<kbd>**🖥️ Custom Remote GUI Framework**</kbd>
 
-Application-level remote access framework built with a focus on secure design principles — not a RAT, but understanding the architecture of one.
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manishsarkar1&repo=Custom-App-only-remote-GUI-framework&hide_border=true&title_color=00FF88&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework)
 
-`#remote-access` `#gui` `#secure-design`
+Application-layer remote access framework. Built to understand the internals of remote access architectures — secure-by-design, app-scoped, no OS-level persistence.
+
+`Remote Access` `Secure Design` `GUI` `Architecture`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [Port Scanner](https://github.com/Manishsarkar1/Port_Scanner)
-> `Python + Sockets`
+<kbd>**🔍 Port Scanner**</kbd>
 
-Multi-threaded TCP port scanner using raw socket programming. Concurrent scanning with configurable thread pools and timeout handling.
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manishsarkar1&repo=Port_Scanner&hide_border=true&title_color=00FF88&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Manishsarkar1/Port_Scanner)
 
-`#port-scanning` `#sockets` `#multithreading` `#python`
+Multi-threaded TCP port scanner with raw socket programming. Configurable thread pools, timeout handling, and clean output formatting — built to understand what Nmap does under the hood.
+
+`Python` `Sockets` `Multithreading` `Reconnaissance`
 
 </td>
 </tr>
@@ -133,59 +153,92 @@ Multi-threaded TCP port scanner using raw socket programming. Concurrent scannin
 
 ---
 
-## `> tail -f /var/log/security_lab.log`
+## `$ tail -f /var/log/security_lab.log`
 
-```
-[INFO]  Building & validating tools in isolated virtual environments
-[INFO]  Performing deep packet inspection & traffic behavior analysis
-[INFO]  Testing reconnaissance workflows → exploitation pipelines
-[INFO]  Authoring & evaluating detection rules for network anomalies
-[LEARN] Exploit development — currently in progress
-[LEARN] Secure network architecture design patterns
-```
-
----
-
-## `> cat current_focus.json`
-
-```json
-{
-  "domains": [
-    "Network Security",
-    "Intrusion Detection Systems",
-    "Packet Analysis",
-    "Penetration Testing",
-    "Secure Network Architectures"
-  ],
-  "active_learning": "Exploit Development",
-  "methodology": "offensive understanding → defensive engineering"
-}
+```log
+[INFO]  ✔ Deployed NIDS in isolated VM network — validated against synthetic attack traffic
+[INFO]  ✔ Deep packet inspection: TCP/UDP flow analysis, protocol anomaly flagging
+[INFO]  ✔ Recon workflow testing: host discovery → port enumeration → service fingerprinting
+[INFO]  ✔ Detection rule authoring: threshold-based + signature-based anomaly logic
+[INFO]  ✔ VANTA topology mutations: star → mesh → hybrid — tested lateral movement paths
+[LEARN] ⟳ Exploit development — shellcode, buffer overflows, controlled environment only
+[LEARN] ⟳ Secure architecture patterns — zero-trust, network segmentation, least privilege
+[NEXT]  → CTF competitions · CVE research · Bug bounty fundamentals
 ```
 
 ---
 
-## `> git log --stat`
+## `$ cat roadmap.yml`
+
+```yaml
+current_focus:
+  - Network Security & Defense Architecture
+  - Intrusion Detection & Prevention Systems
+  - Deep Packet Inspection & Protocol Analysis
+  - Penetration Testing Methodology (structured)
+  - Exploit Development: buffer overflows, shellcode basics
+
+next_milestones:
+  - CEH / CompTIA Security+ certification
+  - First CTF podium (HackTheBox / TryHackMe)
+  - First CVE or bug bounty submission
+  - Contribute to open-source security tooling
+
+philosophy: "offensive understanding → defensive engineering"
+```
+
+---
+
+## `$ git log --all --graph --oneline`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=00FF88&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manishsarkar1&hide_border=true&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117&layout=compact" />
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=00FF88&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Manishsarkar1&hide_border=true&background=0d1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideLabels=58A6FF&dates=c9d1d9&stroke=0d1117" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manishsarkar1&hide_border=true&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117&layout=compact&langs_count=6" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> **⚙️ Note on the contribution snake:** To activate it, create a GitHub Actions workflow in your profile repo (`Manishsarkar1/Manishsarkar1`) that generates the snake SVG on a schedule. [Setup guide here.](https://github.com/Platane/snk)
+
+---
+
+## `$ netstat --established`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Manish%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manishsarkar/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%20Manishsarkar1-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Manishsarkar1)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-%20Let's%20Connect-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:)
+
 </div>
 
 ---
 
-## `> netstat -connect`
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manishsarkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Manishsarkar1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Manishsarkar1)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│   All security research is conducted in isolated, air-gapped         │
+│   virtual environments strictly for educational purposes.            │
+│   Knowledge is a tool — intent is everything.                       │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=80&section=footer" />
 
----
-
-<div align="center">
-  <sub>
-    <code>// All security work performed in isolated, controlled environments for educational purposes.</code>
-  </sub>
 </div>
