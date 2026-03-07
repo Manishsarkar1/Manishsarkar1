@@ -204,7 +204,7 @@ philosophy: "offensive understanding → defensive engineering"
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&show_icons=true&hide_border=true&title_color=00FF88&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishsarkar1&hide_border=true&background=0d1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideLabels=58A6FF&dates=c9d1d9&stroke=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishsarkar1&hide_border=true&background=0d1117&ring=00FF88&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00FF88&sideLabels=58A6FF&sideNums=FFFFFF&dates=c9d1d9&stroke=0d1117" />
 </td>
 </tr></table>
 
