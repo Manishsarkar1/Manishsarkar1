@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 ```
  ███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
@@ -13,11 +13,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Manishsarkar1&style=for-the-badge&color=00FF88&labelColor=0d1117&label=PROFILE+VIEWS" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/Manishsarkar1?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-00FF88?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-Network%20Security-FF6B6B?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -218,11 +218,13 @@ philosophy: "offensive understanding → defensive engineering"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Manish%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manishsarkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manishsarkar/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%20Manishsarkar1-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Manishsarkar1)
+[![GitHub](https://img.shields.io/badge/GitHub-Manishsarkar1-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Manishsarkar1)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-%20Let's%20Connect-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sarkarmrigank28@gmail.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Manishsarkar1-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)](https://app.hackthebox.com/profile/Manishsarkar1)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/Manishsarkar1)
 
 </div>
 
