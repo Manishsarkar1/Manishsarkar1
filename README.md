@@ -222,7 +222,7 @@ philosophy: "offensive understanding → defensive engineering"
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%20Manishsarkar1-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Manishsarkar1)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-%20Let's%20Connect-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:)
+[![Email](https://img.shields.io/badge/Email-%20Let's%20Connect-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sarkarmrigank28@gmail.com)
 
 </div>
 
