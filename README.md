@@ -222,9 +222,9 @@ philosophy: "offensive understanding → defensive engineering"
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Manishsarkar1-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Manishsarkar1)
 &nbsp;
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Manishsarkar1-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)](https://app.hackthebox.com/profile/Manishsarkar1)
+[![HackTheBox]([https://img.shields.io/badge/HackTheBox-Manishsarkar1-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)](https://app.hackthebox.com/profile/Manishsarkar1](https://academy.hackthebox.com/app/dashboard))
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/Manishsarkar1)
+[![TryHackMe]([https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/Manishsarkar1](https://tryhackme.com/p/Manish2929))
 
 </div>
 
