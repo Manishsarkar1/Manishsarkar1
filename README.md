@@ -25,23 +25,31 @@ Linux, Kali Linux, Raspberry Pi, Virtual Machines
 
 ## Projects
 
-<p>
-  <a href="https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-"><strong>Network Intrusion Detection System</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework"><strong>Custom Remote GUI Framework</strong></a><br/>
-  <sub>Python + Scapy based IDS with packet capture and rule-based anomaly detection.</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Secure application-level remote access framework.</sub>
-</p>
-
-<p>
-  <a href="https://github.com/Manishsarkar1/Port_Scanner"><strong>Port Scanner</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-"><strong>VANTA (Variable Network Topology Architecture)</strong></a><br/>
-  <sub>Multi-threaded TCP port scanner implemented with socket programming.</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Dynamic topology simulation framework for network security testing scenarios.</sub>
-</p>
+<table width="100%" style="border-collapse:separate;border-spacing:0;">
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-"><strong>Network Intrusion Detection System</strong></a><br/>
+      <sub>Python + Scapy based IDS with packet capture and rule-based anomaly detection.</sub>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Manishsarkar1/Custom-App-only-remote-GUI-framework"><strong>Custom Remote GUI Framework</strong></a><br/>
+      <sub>Secure application-level remote access framework.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="16"></td></tr>
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Manishsarkar1/Port_Scanner"><strong>Port Scanner</strong></a><br/>
+      <sub>Multi-threaded TCP port scanner implemented with socket programming.</sub>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-"><strong>VANTA (Variable Network Topology Architecture)</strong></a><br/>
+      <sub>Dynamic topology simulation framework for network security testing scenarios.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,4 +85,5 @@ Linux, Kali Linux, Raspberry Pi, Virtual Machines
 
 - GitHub: [github.com/Manishsarkar1](https://github.com/Manishsarkar1)
 - LinkedIn: [linkedin.com/in/manishsarkar](https://www.linkedin.com/in/manishsarkar/)
+
 
