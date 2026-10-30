@@ -69,7 +69,7 @@ So: no code review, no collaboration, no upstream contribution, no community. Fo
 
 For a security role, "does it have a test?" is the question that separates a script from a product. Six detection rules with no tests means you cannot tell me your ARP-poisoning detector works — you can only tell me it ran once.
 
-Worse: that one workflow generates a snake SVG into your `output` branch, and your README **never referenced the image**. You had working automation whose output nobody could see. That's the most on-brand summary of this whole audit — and I've now wired it into the README.
+Worse: that one workflow generates a snake SVG into your `output` branch, and your README **never referenced the image** — working automation whose output nobody could see. It has since been removed from the profile, because rendering it revealed the real problem: the grid is almost entirely empty. Fix the commit frequency first; then bring the snake back.
 
 ### 5. Your commit history reads like a diary, not an engineering log 🟠
 
@@ -107,6 +107,8 @@ Plus the timing problem: **NIDS got its entire core — 15 commits — on 2026-0
 - **Only 2 of 9 have a license** (MIT on NIDS, Apache-2.0 on VANTA). No license = legally, nobody can use or reuse your code. For a security tool that's a real defect.
 
 A recruiter searching GitHub for `python ids scapy` will never find you. Descriptive text and topics are the cheapest SEO you will ever get.
+
+**Dead third-party widgets.** Your stats cards pointed at `github-readme-stats-sigma-five.vercel.app` — someone else's *self-hosted* fork, which means you rented your credibility from a stranger's Vercel account. It ran out of GitHub API quota and has been rendering two red "**Maximum retries exceeded**" error boxes on your live profile. Never embed a widget you don't control on a page a recruiter will open. Static `shields.io` badges can't fail; a self-hosted stats deployment can, and did.
 
 ### 8. You're missing every filter an HR screen actually uses 🟡
 
@@ -160,6 +162,7 @@ I'm not being nice, these are the things I'd defend to a hiring committee:
 - [ ] Rename `Learning-Mangement-System` → `Learning-Management-System`.
 - [ ] Add descriptions + topics to all 9 repos (copy-paste set below).
 - [ ] Remove the HackTheBox badge from your README (done in this branch) until you have a public profile worth linking.
+- [ ] Replace every widget you don't control (done in this branch — dead stats cards and the near-empty snake are gone, static badges in their place).
 
 ### This week
 
