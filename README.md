@@ -179,17 +179,20 @@ philosophy: "offensive understanding → defensive engineering"
 
 ---
 
-## `$ git log --all --graph --oneline`
+## `$ stat --evidence`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manishsarkar1&hide_border=true&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117&show_icons=true&icon_color=00FF88)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manishsarkar1&hide_border=true&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117&layout=compact&langs_count=6&card_width=300)
+[![NIDS](https://img.shields.io/badge/NIDS-6%20detection%20classes%20%C2%B7%201.9k%20LOC-00FF88?style=for-the-badge&labelColor=0d1117)](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-)
+[![ScanForge](https://img.shields.io/badge/ScanForge-raw%20SYN%20%C2%B7%209%20probes-58A6FF?style=for-the-badge&labelColor=0d1117)](https://github.com/Manishsarkar1/Port_Scanner)
+[![VANTA](https://img.shields.io/badge/VANTA-5k%20LOC%20%C2%B7%20Apache--2.0-FF6B6B?style=for-the-badge&labelColor=0d1117)](https://github.com/Manishsarkar1/VANTA-Variable-Network-Topology-Architecture-)
 
-![Contribution activity](https://raw.githubusercontent.com/Manishsarkar1/Manishsarkar1/output/github-contribution-grid-snake-dark-static.svg)
+[![Last commit](https://img.shields.io/github/last-commit/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-?style=for-the-badge&label=LAST%20COMMIT&labelColor=0d1117&color=00FF88)](https://github.com/Manishsarkar1/Network-Intrusion-Detection-System-NIDS-/commits)
+![Python](https://img.shields.io/badge/PYTHON-~8.9k%20lines%20shipped-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
 
 </div>
+
+> These are static badges, not a stats card — nothing here can rate-limit or die and leave an error box on the profile.
 
 ---
 
@@ -219,6 +222,6 @@ philosophy: "offensive understanding → defensive engineering"
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=80&section=footer)
+<sub>Built and maintained by Manish Sarkar · [email](mailto:sarkarmrigank28@gmail.com) · [LinkedIn](https://www.linkedin.com/in/manishsarkar/)</sub>
 
 </div>
